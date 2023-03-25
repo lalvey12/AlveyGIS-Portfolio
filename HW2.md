@@ -80,5 +80,35 @@ Scale: Town Level
 Scale: Market Level
 
 # Table
+**Pricing**
+Feature Type | Element Type | Stylers
+| :--- | ---: | :---:
+All |	Geometry |	Color: Harvest Gold (#E2B37A)
+All	|Labels/Text fill | Color: Shakespeare (#539DCF)
+All |	Labels/text outline |	Color: Denim (#0C74BC)
+Country |	Geometry/Stroke |	Color: Pelorous (#48B8C0)
+Province |	Geometry/Stroke |	Color: Pelorous (#48B8C0)
+Land parcel |	Labels/Text fill |	Color: Harvest Gold (#E2B37A)
+Landscape/Human-made |	Geometry/Stroke |	Color: Harvest Gold (#E2B37A)
+Landscape/Natural |	Geometry |	Color: Harvest Gold (#E2B37A)
+Points of interest |	Geometry |	Color: Orange (#F79327)
+Points of interest |	Labels/Text fill |	Color: Shakespeare (#539DCF)
+Points of interest | Labels/Text fill outline |	Color: Denim (#0C74BC)
+Points of interest/Park |	Geometry/fill |	Color: Harvest Gold (#E2B37A)
+Points of interest/Park |	Labels/Text fill |	Color: Orange (#F79327)
+Road |	Geometry |	Color: Shakespeare (#539DCF)
+Road	| Labels/Text fill |	Color: Shakespeare (#539DCF)
+Road	Labels | Text outline |	Color: Denim (#0C74BC)
+Road/Highway |	Geometry	| Color: Pelorous (#48B8C0)
+Road/Highway |	Geometry/Stroke |	Color: Shakespeare (#539DCF)
+Road/Highway |	Labels/Text fill |	Color: Shakespeare (#539DCF)
+Road/Highway |	Labels/Text outline |	Color: Denim (#0C74BC)
+Transit |	Labels/Text fill |	Color: Shakespeare (#539DCF)
+Transit | Labels/Text outline |	Color: Denim (#0C74BC)
+Transit/Line |	Geometry/Fill |	Color: Harvest Gold (#E2B37A)
+Transit/Station |	Geometry |	Color: Harvest Gold (#E2B37A)
+Water	| Geometry |	Color: Denim (#0C74BC)
+Water |Text fill |	Color: Orange (#F79327)
+
 
 # JSON File
