@@ -38,6 +38,9 @@
     "stylers": [
       {
         "color": "#48b8c0"
+      },
+      {
+        "weight": 2
       }
     ]
   },
