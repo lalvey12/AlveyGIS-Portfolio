@@ -1,4 +1,3 @@
-	# `rgb(83, 157, 207)` 
  # The  Water  Project  Bid 
 
 **Project**
