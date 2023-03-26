@@ -11,4 +11,4 @@ In this course, I hope to learn many new GIS skills, and work with international
 
 # Portfolio
 
-[Proposal and Map for NGO](https://lalvey12.github.io/AlveyGIS-Portfolio/HW2.html)
+[Proposal and Map for NGO](https://lalvey12.github.io/AlveyGIS-Portfolio/Bid.html)
