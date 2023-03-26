@@ -75,18 +75,22 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 
 ![Continent level](https://user-images.githubusercontent.com/122820427/227757912-8bfde3e0-264d-4dea-9d7e-4b2a2111fa4d.PNG)
 Scale: African Continent Level
+
 The Water Project works in several African Countries
 
 ![Country level](https://user-images.githubusercontent.com/122820427/227757956-9d156ccd-f46e-4f89-83e0-92b4bc2e6e39.PNG)
 Scale: Kenya Country Level
+
 Kenya is one of the countries that the Water Project works in
 
 ![Community level](https://user-images.githubusercontent.com/122820427/227758013-a3f02b55-573b-4484-a1cd-2ddc37bc623a.PNG)
 Scale: Kenya Community Level
+
 This is one of the communities in Western Kenya that the Water Project works in
 
 ![Nearest transportation](https://user-images.githubusercontent.com/122820427/227757599-ce49b1a9-bd58-4c97-b5d8-a360277eeef4.PNG)
 Scale: Roads and Transportation Level
+
 This is the local airport in Western Kenya
 
 ### Table
