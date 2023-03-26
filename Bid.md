@@ -1,5 +1,6 @@
 <style>
 H1{color:#539DCF !important;}
+p{color:#48B8C0 !important;}
 </style>
 
 # The Water Project
