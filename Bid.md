@@ -1,3 +1,7 @@
+<style>
+H1{color:Blue !important;}
+</style>
+
 # The Water Project
 
 **Project**
