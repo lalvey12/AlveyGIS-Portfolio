@@ -52,14 +52,14 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 
 **Pricing**
 Deliverables | Estimated Hours per Person | Cost ($100/hour)
-| :--- | ---: | ---:
-Creation of Map  | 2 | $200
-Accessible web page with three distinct zoom levels  | 2 | $200
-Look-up Table  | 0.5 | $50
-JSON file  | 0.25 | $25
-Instruction Manual  | 1 | $100
-Training  | 3 | $300
-**Total**  | **8.75** | **$875**
+| --- | --- | --- |
+| Creation of Map  | 2 | $200 |
+| Accessible web page with three distinct zoom levels  | 2 | $200 |
+| Look-up Table  | 0.5 | $50 |
+| JSON file  | 0.25 | $25 |
+| Instruction Manual  | 1 | $100 |
+| Training  | 3 | $300 |
+| **Total**  | **8.75** | **$875** |
 
 # Map Style
 
