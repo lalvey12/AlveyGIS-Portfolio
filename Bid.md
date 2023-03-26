@@ -96,9 +96,9 @@ Scale: Roads and Transportation Level
 | Province |	Geometry/Stroke |	Color: Denim (#0C74BC) |
 | Land parcel |	Labels/Text Fill |	Color: Harvest Gold (#E2B37A) |
 | Landscape/Human-made |	Geometry/Stroke |	Color: Shakespeare (#539DCF)  |
-| Landscape/Natural |	Geometry |	Color: Shakespeare (#539DCF) |
-| Points of interest |	Geometry |	Color: Harvest Gold (#E2B37A) |
-| Points of interest |	Labels/Text Fill |	Color: Orange (#F79327)  |
+| Landscape/Natural |	Geometry |	Color: Harvest Gold (#E2B37A) |
+| Points of interest |	Geometry |	Color: Orange (#F79327) |
+| Points of interest |	Labels/Text Fill |	Color: Denim (#0C74BC) |
 | Points of interest | Labels/Text Fill Outline |	Color: Harvest Gold (#E2B37A) |
 | Points of interest/Park |	Geometry/Fill |	Color: Harvest Gold (#E2B37A) |
 | Points of interest/Park |	Labels/Text Fill |	Color: Pelorous (#48B8C0) |
