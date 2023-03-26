@@ -51,7 +51,7 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 <ins>Lily Alvey</ins>: Lily has two years of project management skills. She also has one year of GIS experience. She is also familiar with the Water Project as she has lived and interacted with communities the Water Project has worked with in Sierra Leone.
 
 **Pricing**
-Deliverables | Estimated Hours per Person | Cost ($100/hour)
+| Deliverables | Estimated Hours per Person | Cost ($100/hour)|
 | --- | --- | --- |
 | Creation of Map  | 2 | $200 |
 | Accessible web page with three distinct zoom levels  | 2 | $200 |
