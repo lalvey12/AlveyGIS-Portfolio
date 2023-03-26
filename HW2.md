@@ -78,7 +78,7 @@ Scale: Kenya Country Level
 Scale: Kenya Town Level
 
 ![Map4](https://user-images.githubusercontent.com/122820427/227691449-397786f2-b9db-4a47-b4d4-861b2e0284e6.PNG)
-Scale: Kenya Businesses Level
+Scale: Kenya Businesses and Street Level
 
 # Table
 
