@@ -120,4 +120,4 @@ Scale: Kenya Businesses and Street Level
 | Water |Text Fill |	Color: Orange (#F79327) |
 
 
-**[JSON File](TheWaterProjectMAPJSONFile)**
+**[JSON File](WPJSONfile)**
