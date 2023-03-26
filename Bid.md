@@ -5,7 +5,7 @@ H3{color:#539DCF !important;}
 
 # The Water Project
 
-### **Project**
+### Project
 
 The Water Project, Inc. is a non-profit organization that helps communities gain access to clean, safe water by providing training, expertise and financial support for water project construction through staff and implementing partners. The Water Project implements projects in four main regions: Western Kenya, Southeastern Kenya, Uganda, and Sierra Leone. 
 
@@ -22,7 +22,7 @@ The Water Project has requested proposals to redesign a map that integrates into
 
 Alvey Consulting will use Google’s Map Styling Wizard to conduct the project. Alvey Consulting’s deliverables, work plan, and price proposal are listed below. Any further questions can be directed to the Project Manager, Lily Alvey.
 
-### **Work Plan**
+### Work Plan
 
 <ins>Phase 1</ins>
 
@@ -33,7 +33,7 @@ Phase one will begin with a kick-off meeting with the client and the consulting 
 Phase two will proceed after the map is complete. Once the JSON file is provided to the Water Project, the team will create an instruction manual on how to update the map. While the instruction manual is being constructed, the team will construct an accessible webpage that includes screenshots at three distinct zoom levels. Following the completion of the instruction manual and the web page, the consulting team will have a final training meeting with the Water Project to wrap up the project and teach the Water Project team how to update the map and answer any questions they may have. 
 
 
-### **Scheduling** 
+### Scheduling 
 
 <ins>Phase 1</ins>: 3 days
 
@@ -47,15 +47,15 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 
 * Anticipated End Date: 3/26/23
 
-### **Total: 6 days**
+**Total: 6 days**
 
 <sub>*This assumes that the Water Project is available on dates pre-determined to meet*</sub>
 
-### **Staff**
+### Staff
 
 <ins>Lily Alvey</ins>: Lily has two years of project management skills. She also has one year of GIS experience. She is also familiar with the Water Project as she has lived and interacted with communities the Water Project has worked with in Sierra Leone.
 
-### **Pricing**
+### Pricing
 
 | Deliverables | Estimated Hours per Person | Cost ($100/hour)|
 | --- | --- | --- |
@@ -85,7 +85,7 @@ Scale: Kenya Town Level
 ![Map4](https://user-images.githubusercontent.com/122820427/227691449-397786f2-b9db-4a47-b4d4-861b2e0284e6.PNG)
 Scale: Kenya Businesses and Street Level
 
-# Table
+### Table
 
 | Feature Type | Element Type | Stylers |
 | --- | --- | --- |
