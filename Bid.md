@@ -73,26 +73,16 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 
 ### Maps
 
-![Nearest transportation](https://user-images.githubusercontent.com/122820427/227757599-ce49b1a9-bd58-4c97-b5d8-a360277eeef4.PNG)
-Scale: Roads and Transportation Level
-
-![Continent Level](Continent level.PNG)
-<img src="Continent level.PNG" width="500"/>
-
+![Continent level](https://user-images.githubusercontent.com/122820427/227757912-8bfde3e0-264d-4dea-9d7e-4b2a2111fa4d.PNG)
 Scale: African Continent Level
 
-
-![Country Level](Country level.PNG)
-<img src="Country level.PNG" width="500"/>
-
+![Country level](https://user-images.githubusercontent.com/122820427/227757956-9d156ccd-f46e-4f89-83e0-92b4bc2e6e39.PNG)
 Scale: Kenya Country Level
 
-![Community Level](Community level.PNG)
-<img src="Community level.PNG" width="500"/>
-
+![Community level](https://user-images.githubusercontent.com/122820427/227758013-a3f02b55-573b-4484-a1cd-2ddc37bc623a.PNG)
 Scale: Kenya Community Level
 
-
+![Nearest transportation](https://user-images.githubusercontent.com/122820427/227757599-ce49b1a9-bd58-4c97-b5d8-a360277eeef4.PNG)
 Scale: Roads and Transportation Level
 
 ### Table
