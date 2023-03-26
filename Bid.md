@@ -76,7 +76,7 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 ![Map1](https://user-images.githubusercontent.com/122820427/227691339-e52477cb-a2fa-468e-9076-880d4da83916.PNG)
 Scale: African Continent Level
 
-<img src="country level.png" width="700"/>
+<img src="Country level.png" width="700"/>
 
 ![Map2](https://user-images.githubusercontent.com/122820427/227691419-b40ce070-456b-457f-82ca-c8bc687246bf.PNG)
 Scale: Kenya Country Level
