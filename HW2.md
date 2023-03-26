@@ -72,13 +72,13 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 Scale: African Continent Level
 
 ![Map2](https://user-images.githubusercontent.com/122820427/227691419-b40ce070-456b-457f-82ca-c8bc687246bf.PNG)
-Scale: Country Level
+Scale: Kenya Country Level
 
 ![Map3](https://user-images.githubusercontent.com/122820427/227691433-c8285b4d-8fe7-4fed-95b0-02a8d3ad99cd.PNG)
-Scale: Town Level
+Scale: Kenya Town Level
 
 ![Map4](https://user-images.githubusercontent.com/122820427/227691449-397786f2-b9db-4a47-b4d4-861b2e0284e6.PNG)
-Scale: Market Level
+Scale: Kenya Businesses Level
 
 # Table
 
