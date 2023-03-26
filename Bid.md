@@ -74,20 +74,24 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 ### Maps
 
 ![Continent Level](Continent level.PNG)
-<img src="Continent level.PNG" width="700"/>
+<img src="Continent level.PNG" width="500"/>
+
 Scale: African Continent Level
 
 
 ![Country Level](Country level.PNG)
-<img src="Country level.PNG" width="700"/>
+<img src="Country level.PNG" width="500"/>
+
 Scale: Kenya Country Level
 
 ![Community Level](Community level.PNG)
-<img src="Community level.PNG" width="700"/>
+<img src="Community level.PNG" width="500"/>
+
 Scale: Kenya Community Level
 
 ![Nearest Airport](Nearest transportation.PNG)
-<img src="Nearest transportation.PNG" width="700"/>
+<img src="Nearest transportation.PNG" width="500"/>
+
 Scale: Roads and Transportation Level
 
 ### Table
