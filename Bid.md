@@ -74,7 +74,7 @@ Phase two will proceed after the map is complete. Once the JSON file is provided
 ### Maps
 
 ![Nearest transportation](https://user-images.githubusercontent.com/122820427/227757599-ce49b1a9-bd58-4c97-b5d8-a360277eeef4.PNG)
-
+Scale: Roads and Transportation Level
 
 ![Continent Level](Continent level.PNG)
 <img src="Continent level.PNG" width="500"/>
@@ -92,8 +92,6 @@ Scale: Kenya Country Level
 
 Scale: Kenya Community Level
 
-![Nearest Airport](Nearest transportation.PNG)
-<img src="Nearest transportation.PNG" width="500"/>
 
 Scale: Roads and Transportation Level
 
