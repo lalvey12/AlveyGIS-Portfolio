@@ -9,4 +9,4 @@ Hello! I am Lily, a second-year student at Carnegie Mellon University. I am curr
 
 In this course, I hope to learn many new GIS skills, and work with international data, as well as data from events that are occurring presently. I also want to improve my geospatial analysis skills, which will in turn make me a better decision-maker and policymaker for international development organizations.
 
-# Portfolio
+# [Portfolio](https://lalvey12.github.io/AlveyGIS-Portfolio/HW2.html)
