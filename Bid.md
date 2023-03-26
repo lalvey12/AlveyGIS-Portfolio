@@ -90,29 +90,29 @@ Scale: Roads and Transportation Level
 | Feature Type | Element Type | Stylers |
 | --- | --- | --- |
 | All |	Geometry |	Color: Harvest Gold (#E2B37A) |
-| All	|Labels/Text Fill | Color: Shakespeare (#539DCF) |
+| All	|Labels/Text Fill | Color: Pelorous (#48B8C0) |
 | All |	Labels/Text Outline |	Color: Denim (#0C74BC) |
-| Country |	Geometry/Stroke |	Color: Pelorous (#48B8C0) |
-| Province |	Geometry/Stroke |	Color: Pelorous (#48B8C0) |
+| Country |	Geometry/Stroke |	Color: Orange (#F79327) |
+| Province |	Geometry/Stroke |	Color: Denim (#0C74BC) |
 | Land parcel |	Labels/Text Fill |	Color: Harvest Gold (#E2B37A) |
 | Landscape/Human-made |	Geometry/Stroke |	Color: Harvest Gold (#E2B37A) |
-| Landscape/Natural |	Geometry |	Color: Harvest Gold (#E2B37A) |
-| Points of interest |	Geometry |	Color: Orange (#F79327) |
-| Points of interest |	Labels/Text Fill |	Color: Shakespeare (#539DCF) |
-| Points of interest | Labels/Text Fill Outline |	Color: Denim (#0C74BC) |
+| Landscape/Natural |	Geometry |	Color: Shakespeare (#539DCF) |
+| Points of interest |	Geometry |	Color: Harvest Gold (#E2B37A) |
+| Points of interest |	Labels/Text Fill |	Color: Denim (#0C74BC |
+| Points of interest | Labels/Text Fill Outline |	Color: Harvest Gold (#E2B37A) |
 | Points of interest/Park |	Geometry/Fill |	Color: Harvest Gold (#E2B37A) |
-| Points of interest/Park |	Labels/Text Fill |	Color: Orange (#F79327) |
-| Road |	Geometry |	Color: Shakespeare (#539DCF) |
-| Road	| Labels/Text Fill |	Color: Shakespeare (#539DCF) |
+| Points of interest/Park |	Labels/Text Fill |	Color: Pelorous (#48B8C0) |
+| Road |	Geometry |	Color: Denim (#0C74BC) |
+| Road	| Labels/Text Fill |	Color: Pelorous (#48B8C0) |
 | Road	Labels | Text Outline |	Color: Denim (#0C74BC) |
-| Road/Highway |	Geometry	| Color: Pelorous (#48B8C0) |
-| Road/Highway |	Geometry/Stroke |	Color: Shakespeare (#539DCF) |
-| Road/Highway |	Labels/Text Fill |	Color: Shakespeare (#539DCF) |
-| Road/Highway |	Labels/Text Outline |	Color: Denim (#0C74BC) |
-| Transit |	Labels/Text Fill |	Color: Shakespeare (#539DCF) |
+| Road/Highway |	Geometry	| Color: Shakespeare (#539DCF) |
+| Road/Highway |	Geometry/Stroke |	Color: Pelorous (#48B8C0) |
+| Road/Highway |	Labels/Text Fill |	Color: Denim (#0C74BC) |
+| Road/Highway |	Labels/Text Outline |	Color: Shakespeare (#539DCF) |
+| Transit |	Labels/Text Fill |	Color: Orange (#F79327) |
 | Transit | Labels/Text Outline |	Color: Denim (#0C74BC) |
-| Transit/Line |	Geometry/Fill |	Color: Harvest Gold (#E2B37A) |
-| Transit/Station |	Geometry |	Color: Harvest Gold (#E2B37A) |
+| Transit/Line |	Geometry/Fill |	Color: Shakespeare (#539DCF) |
+| Transit/Station |	Geometry |	Color: Orange (#F79327) |
 | Water	| Geometry |	Color: Denim (#0C74BC) |
 | Water |Text Fill |	Color: Orange (#F79327) |
 
