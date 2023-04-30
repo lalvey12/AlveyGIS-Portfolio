@@ -1,4 +1,4 @@
 # Here is my dashboard
 
-<iframe width="800" height="600" frameborder="0" allowfullscreen src="https://insights.arcgis.com/#/embed/74b78a3374b648629f23f19a8ff70aad"></iframe>
+<iframe width="1000" height="1000" frameborder="0" allowfullscreen src="https://insights.arcgis.com/#/embed/74b78a3374b648629f23f19a8ff70aad"></iframe>
 
